@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm @derjozelot (Jonas)
+# 👋 Hey there, I'm jozelot_!
 
 🎓 **Real name:** Jonas  
 🖥️ **Age:** 15 | High school student from NRW, Germany  
