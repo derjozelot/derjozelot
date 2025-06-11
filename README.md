@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm jozelot_!
 
 🎓 **Real name:** Jonas  
-🖥️ **Age:** 15 | High school student from NRW, Germany  
+🖥️ **Details:**  Germany  
 🔧 **Focus:** Server infrastructure • Home Lab setups • Embedded systems • Hosting solutions
 
 ---
