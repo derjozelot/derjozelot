@@ -19,7 +19,7 @@ I also work as a sound technician and run cool side-projects like a smart candy 
 - ☁️ **Home Lab:**  
   - 2 self-hosted Ubuntu servers  
   - 1 remote Windows 10 machine at Strato  
-  - UniFi switches & APs (incl. 19" rackmount)  
+  - UniFi switches & APs
 - 🧠 **Development:**  
   - Java (Discord bots, backend logic)
   - Python (backend)
@@ -27,7 +27,7 @@ I also work as a sound technician and run cool side-projects like a smart candy 
   - Bash
   - HTML, CSS, JS for web development
 - 📦 **Projects:**  
-  - Minecraft hosting platform w/ panel integration
+  - Minecraft hosting platform
   - Discord Bots via. Java
   - Websites for clients
 
