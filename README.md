@@ -14,15 +14,15 @@ I also work as a sound technician and run cool side-projects like a smart candy 
 ---
 
 ## 💡 My Tech Stack
--  **Server OS:** Proxmox VE, Ubuntu Server
--  **Server Management:** Custom dashboard via subdomain (WIP)
--  **Development:**  
+- **Server OS:** Proxmox VE, Ubuntu Server
+- **Server Management:** Custom dashboard via subdomain (WIP)
+- **Development:**  
   - Java (Discord bots, backend logic)
   - Python (backend)
   - MicroPython (embedded systems w/ Raspberry Pi Pico)  
   - Bash
   - HTML, CSS, JS for web development
--  **Projects:**  
+- **Projects:**  
   - Minecraft hosting platform
   - Discord Bots via. Java
   - Websites for clients
