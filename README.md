@@ -16,10 +16,6 @@ I also work as a sound technician and run cool side-projects like a smart candy 
 ## 💡 My Tech Stack
 - 🖥️ **Server OS:** Proxmox VE, Ubuntu Server
 - ⚙️ **Server Management:** Custom dashboard via subdomain (WIP)
-- ☁️ **Home Lab:**  
-  - 2 self-hosted Ubuntu servers  
-  - 1 remote Windows 10 machine at Strato  
-  - UniFi switches & APs
 - 🧠 **Development:**  
   - Java (Discord bots, backend logic)
   - Python (backend)
