@@ -13,7 +13,7 @@ Projects & Interests
 - Web development with HTML, CSS, and JavaScript  
 - Side projects include a Raspberry Pi Pico-based candy machine
 
-Contact  
-Discord: @jozelot_  
-Website: https://jozelot.de (coming soon)  
-Email: kontakt@jozelot.de
+### Contact  
+**Discord:** @jozelot_  
+**Website:** https://jozelot.de (coming soon)  
+**Email:** kontakt@jozelot.de
