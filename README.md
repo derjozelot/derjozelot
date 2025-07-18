@@ -22,14 +22,6 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker" />
 </div>
 
-<h3 align="center">📦 Projects</h3>
-<div align="center">
-  <p>• Discord bots & Minecraft plugins (Java)</p>
-  <p>• Smart Candy Machine with Raspberry Pi Pico (Python)</p>
-  <p>• Unity games (C#)</p>
-  <p>• Homelab: Ubuntu servers, Docker, UniFi, VLANs</p>
-</div>
-
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://discord.com/users/your-id"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" alt="Discord" /></a>
