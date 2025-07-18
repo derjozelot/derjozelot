@@ -6,7 +6,7 @@ and scalable hosting solutions.
 Currently building my own hosting platform with a full UniFi-based network  
 and custom rack servers.
 
-Projects & Interests  
+### Projects & Interests  
 - Proxmox VE and Ubuntu Server environments  
 - Java backend development (Discord bots, API services)  
 - Python and MicroPython for automation and embedded projects  
