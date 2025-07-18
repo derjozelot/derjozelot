@@ -9,7 +9,7 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 </p>
 
 <div align="center">
-  <p>I love networking, severs and everything arround network infrastructur. I develop in Python, Java, C#, HTML/CSS/JS. I run multiple servers with ubuntu.</p>
+  <p>I love networking, severs and everything arround network infrastructur. I develop in Python, Java (Discord Bots/Minecraft Plugins), C# (Game-Developement with Unity), HTML/CSS/JS. I run multiple servers with ubuntu.</p>
 </div>
 
 <h3 align="center">🧰 Tech Stack</h3>
