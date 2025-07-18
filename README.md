@@ -1,39 +1,19 @@
-# 👋 Hey there, I'm jozelot_!
+Hi, I'm jozelot_ (Jonas)  
+IT enthusiast based in Germany.
 
-🎓 **Real name:** Jonas  
-🖥️ **Details:**  Germany  
-🔧 **Focus:** Server infrastructure • Home Lab setups • Embedded systems • Hosting solutions
+I focus on server infrastructure, home lab environments, embedded systems,  
+and scalable hosting solutions.  
+Currently building my own hosting platform with a full UniFi-based network  
+and custom rack servers.
 
----
+Projects & Interests  
+- Proxmox VE and Ubuntu Server environments  
+- Java backend development (Discord bots, API services)  
+- Python and MicroPython for automation and embedded projects  
+- Web development with HTML, CSS, and JavaScript  
+- Side projects include a Raspberry Pi Pico-based candy machine
 
-## 👨‍💻 About Me
-I'm a passionate tech enthusiast, currently building and managing my own hosting infrastructure.  
-From self-built rack servers to full UniFi-based network setups – I live and breathe IT.  
-I also work as a sound technician and run cool side-projects like a smart candy machine using a Raspberry Pi Pico.
-
----
-
-## 💡 My Tech Stack
-- **Server OS:** Proxmox VE, Ubuntu Server
-- **Development:**  
-  - Java (Discord bots, backend logic)
-  - Python (backend)
-  - MicroPython (embedded systems w/ Raspberry Pi Pico)  
-  - Bash
-  - HTML, CSS, JS for web development
-- **Projects:**  
-  - Minecraft hosting platform
-  - Discord Bots via. Java
-  - Websites for clients
-
----
-
-## 📬 Contact
-- 💬 **Discord:** @jozelot_  
-- 🖥️ **Website:** [jozelot.de](https://jozelot.de) *(coming soon)*  
-- 📧 **Email:** kontakt@jozelot.de
-
----
-
-> _“No cloud. Just someone else's computer. Unless it's mine.”_  
-> – Jonas aka @derjozelot
+Contact  
+Discord: @jozelot_  
+Website: https://jozelot.de (coming soon)  
+Email: kontakt@jozelot.de
