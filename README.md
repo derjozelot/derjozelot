@@ -5,9 +5,9 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 <a href="#"><img alt="derjozelot – Server Nerd" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=derjozelot&fontAlignY=35&fontSize=50&desc=UniFi%20Nerd%20%7C%20Server%20Infra%20%7C%20Code%20Junkie&descSize=14&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
 
 <div align="center">
-  <p>🧠 Netzwerktechnik begeistert mich – besonders mit UniFi</p>
-  <p>💻 Ich entwickle mit Python, Java, C#, HTML/CSS/JS</p>
-  <p>🖥️ Server-Power mit Ubuntu, Docker und Selbsthosting</p>
+  <p>🧠 Passionate about network technology – especially UniFi</p>
+  <p>💻 I develop in Python, Java, C#, HTML/CSS/JS</p>
+  <p>🖥️ Running servers with Ubuntu, Docker and self-hosting</p>
 </div>
 
 <h3 align="center">🧰 Tech Stack</h3>
@@ -23,15 +23,15 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker" />
 </div>
 
-<h3 align="center">📦 Projekte</h3>
+<h3 align="center">📦 Projects</h3>
 <div align="center">
-  <p>• Discord Bots & Minecraft Plugins in Java</p>
-  <p>• Candy Machine mit Raspberry Pi Pico (Python)</p>
-  <p>• Unity-Games mit C#</p>
-  <p>• Homelab: Ubuntu Server, Docker, UniFi, VLANs</p>
+  <p>• Discord bots & Minecraft plugins (Java)</p>
+  <p>• Smart Candy Machine with Raspberry Pi Pico (Python)</p>
+  <p>• Unity games (C#)</p>
+  <p>• Homelab: Ubuntu servers, Docker, UniFi, VLANs</p>
 </div>
 
-<h3 align="center">📫 Kontakt</h3>
+<h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://discord.com/users/your-id"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" alt="Discord" /></a>
   <a href="https://jozelot.de"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/web.svg" width="32" alt="Website" /></a>
