@@ -9,9 +9,7 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 </p>
 
 <div align="center">
-  <p>🧠 Passionate about network technology – especially UniFi</p>
-  <p>💻 I develop in Python, Java, C#, HTML/CSS/JS</p>
-  <p>🖥️ Running servers with Ubuntu, Docker and self-hosting</p>
+  <p>I love networking, severs and everything arround network infrastructur. I develop in Python, Java, C#, HTML/CSS/JS. I run multiple servers with ubuntu.</p>
 </div>
 
 <h3 align="center">🧰 Tech Stack</h3>
