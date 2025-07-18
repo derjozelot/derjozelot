@@ -2,7 +2,11 @@
 Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 --->
 
-<a href="#"><img alt="derjozelot – Server Nerd" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=derjozelot&fontAlignY=35&fontSize=50&desc=Networking%20%7C%20Server%20%7C%20Coding&descSize=14&descAlignY=50&animation=fadeIn" align="center" style="width: 100%"></a>
+<p align="center">
+  <img alt="derjozelot – Server Nerd"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=derjozelot&fontAlignY=35&fontSize=50&desc=Networking%20%7C%20Server%20%7C%20Coding&descSize=14&descAlignY=60&animation=fadeIn"
+       style="width: 100%;">
+</p>
 
 <div align="center">
   <p>🧠 Passionate about network technology – especially UniFi</p>
