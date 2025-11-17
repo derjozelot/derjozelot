@@ -9,8 +9,10 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 </p>
 
 <div align="center">
-  <p>I love networking, severs and everything arround network infrastructur. I develop in Python, Java (Discord Bots/Minecraft Plugins), C# (Game-Developement with Unity), HTML/CSS/JS. I run multiple servers with ubuntu.</p>
+  <p>Hi, I'm derjozelot – I love networking, server infrastructure, and coding. I develop in Python, Java (Discord Bots & Minecraft Plugins), C# (Unity Game Dev), and web technologies (HTML/CSS/JS). I also run multiple servers on Ubuntu.</p>
 </div>
+
+---
 
 <h3 align="center">🧰 Tech Stack</h3>
 <div align="center">
@@ -24,6 +26,8 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" alt="Docker" />
 </div>
 
+---
+
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://www.youtube.com/@jozelot_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" alt="YouTube" /></a>
@@ -31,7 +35,7 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
   <a href="https://www.instagram.com/jozelot_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" alt="Instagram" /></a>
 </div>
 
-<br/>
+---
 
 <h3 align="center">📊 GitHub Stats</h3>
 <div align="center">
