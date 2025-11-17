@@ -45,4 +45,4 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=derjozelot&layout=compact&theme=dark)
