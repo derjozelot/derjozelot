@@ -3,13 +3,13 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 --->
 
 <p align="center">
-  <img alt="derjozelot – Server Nerd"
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=derjozelot&fontAlignY=35&fontSize=50&desc=Networking%20%7C%20Server%20%7C%20Coding&descSize=14&descAlignY=60&animation=fadeIn"
+  <img alt="jozelot_ – Server Nerd"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jozelot_&fontAlignY=35&fontSize=50&desc=Networking%20%7C%20Server%20%7C%20Coding&descSize=14&descAlignY=60&animation=fadeIn"
        style="width: 100%;">
 </p>
 
 <div align="center">
-  <p>Hi, I'm derjozelot – I love networking, server infrastructure, and coding. I develop in Python, Java (Discord Bots & Minecraft Plugins), C# (Unity Game Dev), and web technologies (HTML/CSS/JS). I also run multiple servers on Ubuntu.</p>
+  <p>Hi, I'm jozelot_ – I love networking, server infrastructure, and coding. I develop in Python, Java (Discord Bots & Minecraft Plugins), C# (Unity Game Dev), and web technologies (HTML/CSS/JS). I also run multiple servers on Ubuntu.</p>
 </div>
 
 ---
