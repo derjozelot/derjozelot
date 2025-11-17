@@ -42,3 +42,7 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
   <img src="https://github-readme-stats.vercel.app/api?username=derjozelot&show_icons=true&theme=dark&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=derjozelot&theme=dark&hide_border=true" height="150"/>
 </div>
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_GITHUB_USERNAME&layout=compact&theme=dark)
