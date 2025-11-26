@@ -9,7 +9,7 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 </p>
 
 <div align="center">
-  <p>Hi, I'm jozelot_ – I love networking, server infrastructure, and coding. I develop in Python, Java (Discord Bots & Minecraft Plugins), C# (Unity Game Dev), and web technologies (HTML/CSS/JS). I also run multiple servers on Ubuntu.</p>
+  <p>Hi, I'm jozelot_ – I love networking, server infrastructure, and coding. I develop in Python, Java (Discord Bots & Minecraft Plugins), C# (Unity Game Dev), and web technologies (TS + React). I also run multiple servers on Ubuntu.</p>
 </div>
 
 ---
