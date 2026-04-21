@@ -41,9 +41,9 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 
 <h3 align="center">📫 Contact</h3>
 <div align="center">
-  <a href="https://www.youtube.com/@jozelot_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" alt="YouTube" /></a>
-  <a href="https://www.twitch.tv/jonas_jozelot_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" alt="Twitch" /></a>
-  <a href="https://www.instagram.com/jozelot_"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" alt="Instagram" /></a>
+  <a href="https://jozelot.de/youtube"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" alt="YouTube" /></a>
+  <a href="https://jozelot.de/twitch"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" alt="Twitch" /></a>
+  <a href="https://jozelot.de/discord"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" alt="Discord" /></a>
 </div>
 
 ---
