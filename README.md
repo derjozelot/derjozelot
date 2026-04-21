@@ -4,7 +4,7 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 
 <p align="center">
   <img alt="jozelot_"
-       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jozelot_&fontAlignY=35&fontSize=50&desc=Developement%20for%20life&descSize=14&descAlignY=60&animation=fadeIn"
+       src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=jozelot_&fontAlignY=35&fontSize=50&desc=Dev%20for%20life&descSize=14&descAlignY=60&animation=fadeIn"
        style="width: 100%;">
 </p>
 
