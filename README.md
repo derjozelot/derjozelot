@@ -12,10 +12,10 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
   <p>
     Hey, I'm Jonas!<br>
     I'm a developer from Germany with a passion for both software and hardware. My expertise ranges from managing Proxmox clusters and web servers to building robust applications.<br><br>
-    **My Tech Stack:**<br>
-    - Java: Minecraft Plugins (Paper/Velocity), Discord Bots, and Backends.
-    - Web: React, TypeScript, and PHP.
-    - Desktop & Games: C# (.NET).
+    <b>My Tech Stack:</b><br>
+    - Java: Minecraft Plugins (Paper/Velocity), Discord Bots, and Backends.<br>
+    - Web: React, TypeScript, and PHP.<br>
+    - Desktop & Games: C# (.NET).<br>
     - Scripting: Python for automation and small tools.
   </p>
 </div>
