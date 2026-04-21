@@ -9,12 +9,20 @@ Inspired by WaxenSs and YouHaveTrouble – customized by derjozelot
 </p>
 
 <div align="center">
-  <p>Hi, I'm jozelot_ – I love networking, server infrastructure, and coding. I develop in Python, Java (Discord Bots & Minecraft Plugins), C# (Unity Game Dev), and web technologies (TS + React). I also run multiple servers on Ubuntu / Proxmox / TrueNAS.</p>
+  <p>
+    Hey, I'm Jonas!<br>
+    I'm a developer from Germany with a passion for both software and hardware. My expertise ranges from managing Proxmox clusters and web servers to building robust applications.<br><br>
+    _My Tech Stack:_<br>
+    - Java: Minecraft Plugins (Paper/Velocity), Discord Bots, and Backends.
+    - Web: React, TypeScript, and PHP.
+    - Desktop & Games: C# (.NET).
+    - Scripting: Python for automation and small tools.
+  </p>
 </div>
 
 ---
 
-<h3 align="center">🧰 Tech Stack</h3>
+<h3 align="center">🧰 Software I use</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" alt="Python" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" alt="Java" />
